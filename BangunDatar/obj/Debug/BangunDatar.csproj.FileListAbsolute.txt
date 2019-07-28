@@ -1,0 +1,6 @@
+F:\sip\KK3\BangunDatar\BangunDatar\bin\Debug\BangunDatar.exe.config
+F:\sip\KK3\BangunDatar\BangunDatar\obj\Debug\BangunDatar.csprojResolveAssemblyReference.cache
+F:\sip\KK3\BangunDatar\BangunDatar\bin\Debug\BangunDatar.exe
+F:\sip\KK3\BangunDatar\BangunDatar\bin\Debug\BangunDatar.pdb
+F:\sip\KK3\BangunDatar\BangunDatar\obj\Debug\BangunDatar.exe
+F:\sip\KK3\BangunDatar\BangunDatar\obj\Debug\BangunDatar.pdb
